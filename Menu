@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+
+        nav ul li{
+                
+            list-style: none;
+            display: inline;
+            margin-right: 10px;
+
+        }
+
+        nav ul li a{
+            text-decoration: none;
+            color: white;
+        }
+
+        nav{
+            background-color:#FFCCE5 ; 
+            padding: 10px;
+        }
+
+        nav ul li a:hover{
+            background-color: pink;
+        }
+
+        nav ul li a:active{
+            background-color:violet;
+        }
+
+        main{
+
+            border-style: solid;
+            border-color: #FFCCCC;
+            border-radius: 50px;
+            margin: 50px;
+            padding: 50px;
+        }
+
+        section{
+
+            border-style: solid;
+            border-color:#FFCCCC;
+            margin-bottom: 60px;
+           padding-left: 40%;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>menu</h1>
+ 
+
+    <main>
+
+        <section>
+            <h1>chicken:</h1>
+            <ul>
+                
+                
+Chicken, a versatile and widely loved protein, is cherished in cuisines across the globe for its tender texture and mild flavor. From succulent roasted chicken to spicy curries and flavorful stir-fries, chicken dishes offer a diverse range of culinary experiences. Whether grilled, fried, baked, or simmered in a savory sauce, chicken lends itself to a myriad of cooking methods and flavor profiles. Whether enjoyed as a comforting home-cooked meal, a hearty sandwich, or a gourmet entrée, chicken dishes consistently delight taste buds and provide nourishment for countless meals worldwide.
+
+
+
+
+
+            </ul>
+        </section>
+
+       
+
+        <section>
+            <h1>beef:</h1>
+            <ul>
+                
+Beef, a staple in cuisines around the world, is prized for its rich flavor and versatility. Whether grilled to perfection, braised until tender, or thinly sliced for sushi, beef offers a wide range of culinary possibilities. From succulent steaks to hearty stews, beef dishes showcase the meat's depth of flavor and tenderness. Whether enjoyed as a classic burger, a comforting bowl of beef noodles, or an elegant steak dinner, beef remains a beloved choice for meat lovers everywhere, providing a satisfying and delicious dining experience.
+            </ul>
+        </section>
+
+        <section>
+            <h1>Sushi:</h1>
+            <ul>
+                Sushi, a Japanese delicacy, is a harmonious blend of vinegared rice, fresh seafood, and seaweed. From classic nigiri to flavorful maki rolls, sushi offers a tantalizing array of tastes and textures. Accompanied by soy sauce and wasabi, each bite is a celebration of precision and flavor, making sushi a beloved culinary experience worldwide.
+            </ul>
+        </section>
+
+    </main>
+
+    <footer></footer>
+
+
+</body>
+</html>
